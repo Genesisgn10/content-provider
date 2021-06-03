@@ -9,3 +9,4 @@
 # Requisitos Básicos
 - Conhecimentos básicos em desenvolvimento Android
 - Conhecimento POO
+- Ter o Material Design implementado 
