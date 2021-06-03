@@ -3,7 +3,7 @@
 
 # Objetivo da aplicação
 - Compartilhar dados com outras aplicações
-- Apresentar dados recevidos de uma API
+- Apresentar dados recebidos de uma API
 - Receber notificações no dispositivo
 
 # Requisitos Básicos
