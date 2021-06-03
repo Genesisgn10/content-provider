@@ -1,4 +1,4 @@
-# content-provider
+# Content Provider
 - É um provedor de conteúdo, onde permite compartilhar informações de uma aplicação com outras aplicações
 
 # Objetivo da aplicação
